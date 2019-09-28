@@ -9,7 +9,7 @@
 
 ## Acknowledgments
 
-* Udemy: Reece Kenney Search Engine Course
+* Udemy: Brad Traversy's Modern JS course
 
 ## License
 
